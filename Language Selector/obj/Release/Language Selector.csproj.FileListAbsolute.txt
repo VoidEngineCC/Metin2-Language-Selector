@@ -1,0 +1,41 @@
+C:\Users\Failure\source\repos\Language Selector\Language Selector\bin\Release\Language Selector.exe.config
+C:\Users\Failure\source\repos\Language Selector\Language Selector\bin\Release\Language Selector.exe
+C:\Users\Failure\source\repos\Language Selector\Language Selector\bin\Release\Language Selector.pdb
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Release\MainWindow.baml
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Release\MainWindow.g.cs
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Release\App.g.cs
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Release\Language Selector_MarkupCompile.cache
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Release\Language Selector.g.resources
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Release\Language_Selector.Properties.Resources.resources
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Release\Language Selector.csproj.GenerateResource.cache
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Release\Language Selector.csproj.CoreCompileInputs.cache
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Release\Language Selector.exe
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Release\Language Selector.pdb
+E:\Metin2\zerone\Valkyrie Language Selector\Language Selector\bin\Release\Language Selector.exe.config
+E:\Metin2\zerone\Valkyrie Language Selector\Language Selector\bin\Release\Language Selector.exe
+E:\Metin2\zerone\Valkyrie Language Selector\Language Selector\bin\Release\Language Selector.pdb
+E:\Metin2\zerone\Valkyrie Language Selector\Language Selector\obj\Release\Language Selector.csproj.AssemblyReference.cache
+E:\Metin2\zerone\Valkyrie Language Selector\Language Selector\obj\Release\MainWindow.baml
+E:\Metin2\zerone\Valkyrie Language Selector\Language Selector\obj\Release\MainWindow.g.cs
+E:\Metin2\zerone\Valkyrie Language Selector\Language Selector\obj\Release\App.g.cs
+E:\Metin2\zerone\Valkyrie Language Selector\Language Selector\obj\Release\Language Selector_MarkupCompile.cache
+E:\Metin2\zerone\Valkyrie Language Selector\Language Selector\obj\Release\Language Selector.g.resources
+E:\Metin2\zerone\Valkyrie Language Selector\Language Selector\obj\Release\Language_Selector.Properties.Resources.resources
+E:\Metin2\zerone\Valkyrie Language Selector\Language Selector\obj\Release\Language Selector.csproj.GenerateResource.cache
+E:\Metin2\zerone\Valkyrie Language Selector\Language Selector\obj\Release\Language Selector.csproj.CoreCompileInputs.cache
+E:\Metin2\zerone\Valkyrie Language Selector\Language Selector\obj\Release\Language Selector.exe
+E:\Metin2\zerone\Valkyrie Language Selector\Language Selector\obj\Release\Language Selector.pdb
+D:\Valkyrie2\Project\Valkyrie Language Selector\Language Selector\bin\Release\Language Selector.exe.config
+D:\Valkyrie2\Project\Valkyrie Language Selector\Language Selector\bin\Release\Language Selector.exe
+D:\Valkyrie2\Project\Valkyrie Language Selector\Language Selector\bin\Release\Language Selector.pdb
+D:\Valkyrie2\Project\Valkyrie Language Selector\Language Selector\obj\Release\Language Selector.csproj.AssemblyReference.cache
+D:\Valkyrie2\Project\Valkyrie Language Selector\Language Selector\obj\Release\MainWindow.baml
+D:\Valkyrie2\Project\Valkyrie Language Selector\Language Selector\obj\Release\MainWindow.g.cs
+D:\Valkyrie2\Project\Valkyrie Language Selector\Language Selector\obj\Release\App.g.cs
+D:\Valkyrie2\Project\Valkyrie Language Selector\Language Selector\obj\Release\Language Selector_MarkupCompile.cache
+D:\Valkyrie2\Project\Valkyrie Language Selector\Language Selector\obj\Release\Language Selector.g.resources
+D:\Valkyrie2\Project\Valkyrie Language Selector\Language Selector\obj\Release\Language_Selector.Properties.Resources.resources
+D:\Valkyrie2\Project\Valkyrie Language Selector\Language Selector\obj\Release\Language Selector.csproj.GenerateResource.cache
+D:\Valkyrie2\Project\Valkyrie Language Selector\Language Selector\obj\Release\Language Selector.csproj.CoreCompileInputs.cache
+D:\Valkyrie2\Project\Valkyrie Language Selector\Language Selector\obj\Release\Language Selector.exe
+D:\Valkyrie2\Project\Valkyrie Language Selector\Language Selector\obj\Release\Language Selector.pdb

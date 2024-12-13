@@ -1,0 +1,14 @@
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Debug\Language Selector.csproj.AssemblyReference.cache
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Debug\MainWindow.baml
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Debug\MainWindow.g.cs
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Debug\App.g.cs
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Debug\Language Selector_MarkupCompile.cache
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Debug\Language Selector.g.resources
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Debug\Language_Selector.Properties.Resources.resources
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Debug\Language Selector.csproj.GenerateResource.cache
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Debug\Language Selector.csproj.CoreCompileInputs.cache
+C:\Users\Failure\source\repos\Language Selector\Language Selector\bin\Debug\Language Selector.exe.config
+C:\Users\Failure\source\repos\Language Selector\Language Selector\bin\Debug\Language Selector.exe
+C:\Users\Failure\source\repos\Language Selector\Language Selector\bin\Debug\Language Selector.pdb
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Debug\Language Selector.exe
+C:\Users\Failure\source\repos\Language Selector\Language Selector\obj\Debug\Language Selector.pdb

@@ -1,0 +1,34 @@
+﻿<Window x:Class="Language_Selector.MainWindow"
+        xmlns="http://schemas.microsoft.com/winfx/2006/xaml/presentation"
+        xmlns:x="http://schemas.microsoft.com/winfx/2006/xaml"
+        Title="Valkyrie : Language Selector" Height="200" Width="300">
+
+    <StackPanel VerticalAlignment="Center" HorizontalAlignment="Center" Margin="20">
+        <ComboBox x:Name="languageComboBox" Width="200" Margin="0,0,0,10">
+            <ComboBoxItem Content="English" />
+            <ComboBoxItem Content="Magyar" />
+            <ComboBoxItem Content="Cestina" />
+            <ComboBoxItem Content="Deutsch" />
+            <ComboBoxItem Content="Dansk" />
+            <ComboBoxItem Content="Espanol" />
+            <ComboBoxItem Content="Français" />
+            <ComboBoxItem Content="Ellinika" />
+            <ComboBoxItem Content="Italiano" />
+            <ComboBoxItem Content="Holland" />
+            <ComboBoxItem Content="Polski" />
+            <ComboBoxItem Content="Portugues" />
+            <ComboBoxItem Content="Romana" />
+            <ComboBoxItem Content="Russkiy" />
+            <ComboBoxItem Content="Türkçe" />
+        </ComboBox>
+
+        <Button Width="200" Height="30" Margin="0,0,0,10" Click="ChangeLanguage_Click">
+            <StackPanel Orientation="Horizontal" HorizontalAlignment="Center">
+                <TextBlock Text="Change Language" VerticalAlignment="Center" />
+                <TextBlock Text=" © Valkyrie" FontSize="10" Foreground="Gray" />
+            </StackPanel>
+        </Button>
+
+        <Button Width="80" Height="30" Click="Exit_Click" Content="Exit" HorizontalAlignment="Right" />
+    </StackPanel>
+</Window>
